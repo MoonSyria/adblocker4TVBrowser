@@ -5,15 +5,16 @@
 ! Expires: 4 days (update frequency)
 ! https://github.com/MoonSyria/adblocker4TVBrowser/edit/main/main.txt:
 !
-
-http://zauglomo.net
+https://oktube.co/cdn-cgi/bm/cv/669835187/api.js
+https://zauglomo.net/
+https://stats.g.doubleclick.net/
 http://doubleclick.net
 http://oss.maxcdn.com
 http://*.maxcdn.com
 http://*.maxcdn.com/*
 http://924e60106cd9d0e.com/*
 https://thompaur.com/
-https://phaurtuh.net/t*.js
+https://phaurtuh.net/
 https://petulantsubordinate.com/
 http://*.cloudfront.net
 http://googletagmanager.com
