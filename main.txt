@@ -1,51 +1,27 @@
-!Fix Google Analytics WebPage
-@@||google-analytics.com^
-@@||*$domain=analytics.google.com
+[Adblock Plus 2.0]
+! Version:1.0
+! Title: adblocker4TVBrowser
+! Last modified: 20210420
+! Expires: 4 days (update frequency)
+! https://github.com/MoonSyria/adblocker4TVBrowser/edit/main/main.txt:
+!
 
-! 12/13/2017, 2:07:59 AM http://www.damasgate.com/vb/t426027/
-www.damasgate.com###notices > .tborder > tbody > tr:nth-of-type(2) > .alt1:nth-of-type(2)
 
-! 12/13/2017, 2:08:11 AM http://www.damasgate.com/vb/t426027/
-www.damasgate.com##body > div:nth-of-type(5) > .page > div > div:nth-of-type(1)
+##a[href^="https://cdn.egy.best/sc/*.js"]
+||wwwadcntr.com^
 
-! 12/13/2017, 2:08:29 AM http://www.damasgate.com/vb/t426027/
-www.damasgate.com##div:nth-of-type(7) > .page > div > div:nth-of-type(5)
-
-https://cdn.egy.best/sc/*.js
-
-! 3/17/2018, 1:49:16 PM https://www.spankwire.com/Skinny-french-amateur-and-my-playmate-s-daughter-sex-slave-Tender-hump/video17553962/
 ||www.spankwire.com/lbrndgDHt4?m=aHR0cHM6Ly92ei1jZG4udHJhZmZpY2p1bmt5Lm5ldC91cGxvYWRlZF9jb250ZW50L2NyZWF0aXZlLzEwMS80NjkvODE3LzEvMTAxNDY5ODE3MS5qcGc=$image
 
-! 3/17/2018, 1:49:31 PM https://www.spankwire.com/Skinny-french-amateur-and-my-playmate-s-daughter-sex-slave-Tender-hump/video17553962/
-||www.spankwire.com/lbrndoHipn?m=aHR0cHM6Ly92ei1jZG4udHJhZmZpY2p1bmt5Lm5ldC91cGxvYWRlZF9jb250ZW50L2NyZWF0aXZlLzEwMS81MTkvNTY1LzEvMTAxNTE5NTY1MS5qcGc=$image
-
-! 3/17/2018, 1:49:41 PM https://www.spankwire.com/Skinny-french-amateur-and-my-playmate-s-daughter-sex-slave-Tender-hump/video17553962/
-www.spankwire.com###videoContainer > div:nth-of-type(2) > div:nth-of-type(1)
-
-https://cdn-static.egybest.net/static/global/js/adblock.js
-
-! 3/17/2018, 1:49:50 PM https://www.spankwire.com/Skinny-french-amateur-and-my-playmate-s-daughter-sex-slave-Tender-hump/video17553962/
-www.spankwire.com###videoContainer > div:nth-of-type(2) > div:nth-of-type(2)
-
-! 3/17/2018, 1:52:13 PM http://www.sexcord.com/p2/view2.php?i=13803&t=http://www.pornarmored.com/deli/thumbs/36/524_s.jpg&d=This%20nun%20has%20a%20dirty%20secret:%20she%27s%20a%20whore!&c=4
-www.sexcord.com##.video-spots-box
-
-! 3/25/2018, 10:51:39 PM https://outlook.live.com/mail/#/inbox/id/AQQkADAwATY3ZmYAZS05ODIwLWQyOGEtMDACLTAwCgAQALw3y2R0ikTQil4FbBKnECI%3D
-outlook.live.com##.FBxcz29VZtL_o3nBgR-6C > ._1K0cujP_EBzCd77bTesW1q > ._3kFrq5TMNGYRjerTOdV31d
-
-! 3/25/2018, 10:51:47 PM https://outlook.live.com/mail/#/inbox/id/AQQkADAwATY3ZmYAZS05ODIwLWQyOGEtMDACLTAwCgAQALw3y2R0ikTQil4FbBKnECI%3D
-outlook.live.com##.FBxcz29VZtL_o3nBgR-6C > ._1K0cujP_EBzCd77bTesW1q
-only2date.com
 www.oss.maxcdn.com
 www.*.maxcdn.com
 www.*.maxcdn.com/*
 924e60106cd9d0e.com/*
-
-! 2020-11-10 https://exy.ai
+https://thompaur.com/
+https://phaurtuh.net/tag.min.js
 exy.ai##.wDW3UFE9HVN
+https://petulantsubordinate.com/
+https://oktube.co/
 
-! 2020-11-24 https://beinmatch.best
-||melodydumplingdressmaker.com/wjvt09gh0k?key=78dfed6a2990b4b87e0b6b9cb29d2e4c$subdocument
 
 ! 2020-12-02 https://www.xvideos.com
 www.xvideos.com##.models
