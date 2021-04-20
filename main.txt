@@ -15,7 +15,6 @@ http://924e60106cd9d0e.com/*
 https://thompaur.com/
 https://phaurtuh.net/t*.js
 https://petulantsubordinate.com/
-https://oktube.co/
 http://*.cloudfront.net
 http://googletagmanager.com
 http://paletteadulatory.com
