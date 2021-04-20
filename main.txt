@@ -6,56 +6,24 @@
 ! https://github.com/MoonSyria/adblocker4TVBrowser/edit/main/main.txt:
 !
 
-
-##a[href^="https://cdn.egy.best/sc/*.js"]
-||wwwadcntr.com^
-
-||www.spankwire.com/lbrndgDHt4?m=aHR0cHM6Ly92ei1jZG4udHJhZmZpY2p1bmt5Lm5ldC91cGxvYWRlZF9jb250ZW50L2NyZWF0aXZlLzEwMS80NjkvODE3LzEvMTAxNDY5ODE3MS5qcGc=$image
-
-www.oss.maxcdn.com
-www.*.maxcdn.com
-www.*.maxcdn.com/*
-924e60106cd9d0e.com/*
+http://zauglomo.net
+http://doubleclick.net
+http://oss.maxcdn.com
+http://*.maxcdn.com
+http://*.maxcdn.com/*
+http://924e60106cd9d0e.com/*
 https://thompaur.com/
-https://phaurtuh.net/tag.min.js
-exy.ai##.wDW3UFE9HVN
+https://phaurtuh.net/t*.js
 https://petulantsubordinate.com/
 https://oktube.co/
-
-
-! 2020-12-02 https://www.xvideos.com
-www.xvideos.com##.models
-www.xvideos.com##.xv-cams-header
-www.xvideos.com##.models
-www.xvideos.com##.part-right
-www.xvideos.com##.player-video.xv-cams-block > .btn
-
-! 2020-12-27 https://seen.egybest.vin
-seen.egybest.vin##.tam.full.error.msg_box
-
+http://*.cloudfront.net
+http://googletagmanager.com
+http://paletteadulatory.com
+http://ugroocuw.net
+http://petulantsubordinate.com
+http://phaurtuh.net
+http://zauglomo.net
+https://cdn-static.egybest.net/static/global/js/*.js
 https://cdn-static.egybest.net/static/global/js/adblock.js
-seen.egybest.vin###GlobalFrame
-
-! 2021-01-14 https://outlook.live.com
-outlook.live.com##._1xCBLVKl1qp6BB2jT7GN5b > ._3_hHr3kfEhbNYRFM5YJxH9 > ._23fxOotSm5HPNB1U_ZVw4i
-outlook.live.com##._1xCBLVKl1qp6BB2jT7GN5b > ._3_hHr3kfEhbNYRFM5YJxH9
-
-! 2021-02-13 https://elakademiapost.com
-elakademiapost.com##.ads.mb-3.text-center
-
-! 2021-02-13 https://yallahd.live
-yallahd.live###closecait
-
-! 2021-02-14 http://caley.blueocean.com.mx
-||image.tmdb.org/t/p/w780/zrLd55oMWhx2yTNhsR3U4vkcyTr.jpg$image
-caley.blueocean.com.mx##.modal-dialog-centered.modal-dialog
-
-! 2021-02-21 https://hackforums.net
-hackforums.net##.mam-header
-hackforums.net##.mam-header-switch.mam-header
-hackforums.net##.mam-header
-hackforums.net##.mam-footer
-
-! 2021-03-02 https://csrgxtu.github.io
-csrgxtu.github.io##.github-fork-ribbon
-
+http://elakademiapost.com
+http://ft+aley.blueocean.com.mx
